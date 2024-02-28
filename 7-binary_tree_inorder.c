@@ -1,11 +1,11 @@
 #include "binary_trees.h"
 
 /**
- * Traverse a binary tree using in-order traversal and 
+ * binary_tree_inorder - Traverse a binary tree using in-order traversal and
  * apply a function to each node.
  *
- * @tree - Pointer to the root node
- * @func - Pointer to a function to call for each nodes
+ * @tree: Pointer to the root node
+ * @func: Pointer to a function to call for each nodes
  */
 void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int))
 {
@@ -40,3 +40,4 @@ func(current_node->n);
 current_node = current_node->right;
 }
 }
+

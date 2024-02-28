@@ -19,5 +19,5 @@ tree = tree->parent;
 }
 
 /* Return the calculated depth */
-return (depth);
+return (dp);
 }

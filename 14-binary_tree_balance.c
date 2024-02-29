@@ -3,7 +3,7 @@
 /**
  * binary_tree_balance - Calculate the balance factor of a binary tree.
  *
- * @tree: Pointer to the root node of the tree to measure the balance factor
+ * @tree: Pointer to the root node of the tree to measure the balance factor.
  *
  * Return:
  *   Balance factor of the binary tree

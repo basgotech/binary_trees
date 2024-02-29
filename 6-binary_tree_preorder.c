@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_preorder - Traverse a binary tree using pre-order traversal
- * and apply a function to each node.
+ * and apply a function to each node
  *
  * @tree: Pointer to the root node of the tree to traverse
  * @func:  Pointer to a function to call for each node

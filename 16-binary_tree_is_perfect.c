@@ -12,7 +12,6 @@ if (tree == NULL)
 {
 return (0);
 }
-		
 return (binary_tree_is_perfect(tree->left) -
 binary_tree_height(tree->right) == 0 ? 1 : 0);
 }

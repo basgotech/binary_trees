@@ -15,7 +15,7 @@ size_t rs;
 
 if (tree == NULL)
 {
-return 0;
+return (0);
 }
 
 /* Recursively calculate the size of the left and right subtrees */

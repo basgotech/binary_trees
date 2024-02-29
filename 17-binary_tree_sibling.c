@@ -12,7 +12,6 @@ if (node == NULL || node->parent == NULL)
 {
 return (NULL);
 }
-		
 if (node->parent->left == node)
 {
 return (node->parent->right);

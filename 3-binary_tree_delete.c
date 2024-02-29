@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_delete - Recursively delete the binary tree
- * starting from the given node.
+ * starting from the given node
  *
  * @tree:  Pointer to the root node of the tree to delete
  */
